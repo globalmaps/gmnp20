@@ -9,5 +9,5 @@ Credit: "Global Map of Nepal ©ISCGM/ Survey Department, Nepal"
 
 Contact: Survey Department. http://www.ngiip.gov.np/ 
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/nepal.png)
+E-mail: ![email](email.png)
 
